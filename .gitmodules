@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:healthy-food-and-dietary-products/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:healthy-food-and-dietary-products/frontend.git

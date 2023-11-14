@@ -1,3 +1,7 @@
-# GENERAL
+# good-food
 
-Репозиторий для объединения backend и frontend
+## GENERAL
+
+### [Описание Backend](./backend/README.md)
+
+### [Описание Frontend](./frontend/README.md)
