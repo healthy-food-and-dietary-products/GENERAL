@@ -1,7 +1,5 @@
 # good-food
 
-## GENERAL
+### [Описание Backend](https://github.com/healthy-food-and-dietary-products/backend/tree/952a7e5#readme)
 
-### [Описание Backend](./backend/README.md)
-
-### [Описание Frontend](./frontend/README.md)
+### [Описание Frontend](https://github.com/healthy-food-and-dietary-products/frontend/tree/532a258d6a#readme)
